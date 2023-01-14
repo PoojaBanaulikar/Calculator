@@ -1,4 +1,4 @@
-# Calculator
+# Calculator App
 
 steps:
 1) git clone repo
